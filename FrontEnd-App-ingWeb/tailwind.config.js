@@ -25,7 +25,7 @@ export default {
           clay: { soft: '#F7E7DD', ink: '#7A3418' },
           sage: { soft: '#E4ECE2', ink: '#2F4A2E' },
           lilac: { soft: '#EAE4F1', ink: '#4B3768' },
-          sand: { soft: '#F3EAD3', ink: '#6B4E12' },
+          sand: { soft: '#F3EAD3', ink: '#816c41ff' },
           mist: { soft: '#E1ECEF', ink: '#1F4A57' },
           rose: { soft: '#F4E1E3', ink: '#7A2A33' },
         },
